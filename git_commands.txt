@@ -1,0 +1,9 @@
+git init - ローカルリポジトリの作成
+git add ファイル名 - ローカルリポジトリにファイルの変更点を追加
+git commit -m "コメント"
+git remote add origin リポジトリのURL
+git push origin master - Githubのほうにローカルから送る
+git checkout - 使うブランチ
+git branch - 作りたいブランチ名
+git push origin - ブランチ名
+git merge - 結合するブランチ(結合されるブランチをcheckoutしておく)
